@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ecomerce</string>
+    <string name="find_discover_choose_and_buy">Find,Discover,Choose and Buy</string>
+    <string name="already_have_an_account_login">Already have an account?Login</string>
+    <string name="join_now">Join Now</string>
+    <string name="remenber_me">Remenber me</string>
+    <string name="login">login</string>
+    <string name="i_am_not_admin">I am not Admin ?</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
